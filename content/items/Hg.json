@@ -1,0 +1,6 @@
+type: material
+name: Mercury
+description: Do not be confused as mercury(planet); a metal that melts at room temperture.
+color: f5f5f5
+hardness: 0
+cost: 0
