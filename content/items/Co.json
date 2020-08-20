@@ -1,0 +1,6 @@
+type: material
+name: Cobalt 
+description: A hard, silvery-white metal used to make batteries
+color: a4b0b3
+hardness: 5.5
+cost: 2.5

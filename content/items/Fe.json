@@ -1,0 +1,6 @@
+type: material
+name: Iron 
+description: It is fairly soft, white, magnetic material 
+color: cccccc
+hardness: 4
+cost: 2
