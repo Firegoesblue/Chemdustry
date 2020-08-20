@@ -1,5 +1,5 @@
 type: resource
-name: magnetite
+name: Magnetite
 description: oxidized version of iron (Fe3O4)
 hardness: 5
 cost: 4
