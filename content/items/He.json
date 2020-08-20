@@ -1,0 +1,5 @@
+type: resource
+name: Helium
+description: It is a colourless, odorless, monatonic gas found in the atmosphere
+color: e0f59d
+flamability: 3
