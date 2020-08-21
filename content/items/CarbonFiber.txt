@@ -1,0 +1,4 @@
+type: material
+name: Carbon fiber
+description: Carbon fibers or carbon fibres (alternatively CF, graphite fiber or graphite fibre) are fibers about 5–10 micrometres in diameter and composed mostly of carbon atoms. Carbon fibers have several advantages including high stiffness, high tensile strength, low weight, high chemical resistance, high temperature tolerance and low thermal expansion
+color: 000000
