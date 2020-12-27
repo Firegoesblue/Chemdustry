@@ -1,0 +1,10 @@
+type: wall
+category: defense
+name: Tungsten wall
+description: A wall that is made out of tungsten
+health: 10000
+size : 2
+research: titanium-wall
+requirements: [
+ W/24
+]

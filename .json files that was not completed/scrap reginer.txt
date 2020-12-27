@@ -1,0 +1,9 @@
+type: GenericCrafter
+category: crafting
+name: Scrap refiner
+description: Refines scrap without melting it.
+updateEffect: pulverizeRed
+idleSound: mine
+idleSoundVolume: 0.5
+consumes: {
+ power: 1
