@@ -1,0 +1,16 @@
+name: Solid State Battery
+description: "Being solid makes the battery more compact."
+type: Battery
+health: 500
+size: 1
+consumes: {
+  powerBuffered: 25000
+}
+requirements: [
+ Li/25
+ Co/20
+ PVC/25
+ plastaninum/5
+ copper/5
+]
+category: power

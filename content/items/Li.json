@@ -1,0 +1,6 @@
+type: material
+name: Lithium
+description: A metal that is used in lithium ion batteries.  
+color: cccccc
+hardness: 1.5
+cost: 1.1

@@ -1,0 +1,17 @@
+name: Warehouse
+description: "Stores 20k of items"
+type: Vault
+itemCapacity: 20000
+hasItems: true
+health: 15000
+size: 5
+buildCostMultiplier: 1.1
+requirements: [
+  Al/1000
+  Steel/1000
+  PVC/500
+  Fe/300
+  graphite/800
+  Titanium/1000
+]
+category: effect

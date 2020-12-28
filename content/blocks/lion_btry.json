@@ -1,0 +1,15 @@
+name: Lion-Battery
+description: "It's in your phone."
+type: Battery
+health: 100
+size: 1
+consumes: {
+  powerBuffered: 7500
+}
+requirements: [
+ Li/25
+ Pvc/25
+ plastaninum/5
+ copper/5
+]
+category: power

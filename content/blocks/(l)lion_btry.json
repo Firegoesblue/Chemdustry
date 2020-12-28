@@ -1,0 +1,15 @@
+name: Lion-Battery
+description: "Stack it and you got yourself a 10th of hornsdale power" reserve
+type: Battery
+health: 100
+size: 1
+consumes: {
+  powerBuffered: 80000
+}
+requirements: [
+ Li/225
+ PVC/225
+ plastaninum/45
+ copper/40
+]
+category: power

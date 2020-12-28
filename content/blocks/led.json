@@ -1,7 +1,7 @@
 type: illuminator
 category: effect
 name: LED
-description: Commercial light build in the 21st century.
+description: "Commercial light build in the 21st century."
 health: 100
 size: 2
 research: 

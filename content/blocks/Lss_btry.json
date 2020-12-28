@@ -1,0 +1,16 @@
+name: Large Solid State Battery
+description: "Due to its compact battery, the storage capacity is bigger far more big."
+type: Battery
+health: 500
+size: 3
+consumes: {
+  powerBuffered: 250000
+}
+requirements: [
+ Li/225
+ Co/180
+ PVC/225
+ plastaninum/45
+ copper/40
+]
+category: power

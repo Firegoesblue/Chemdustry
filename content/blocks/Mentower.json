@@ -1,0 +1,34 @@
+name: Mend tower
+description: "Due to its improvements, it got taller and it's effects are bosted."
+type: MendProjector
+
+health: 750
+
+size: 2
+requirements: [
+ lead/100
+ copper/200
+ graphite/80
+ Steel/200
+
+]
+category: effect
+
+hasPower:true
+consumes: {
+  power: 6
+  items: {
+    booster: true
+    optional: true
+    items: [
+	  phase-fabric/2
+    ]
+  }
+}
+
+reload:60
+range:450
+healpercent:30
+phaseRangeBoost:200
+phaseBoost:5
+useTime:150
