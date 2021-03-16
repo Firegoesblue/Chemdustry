@@ -1,7 +1,6 @@
-name: CaWO4
-displayName: [acid]Chem[white]dustry
-author: Bbsx
-description:  This is almost acurate and simplified of the tecnology from the 21st century.[blue]discord server on https://discord.gg/Fx5pT5u
+name: "CaWO4"
+displayName: "[acid]Chem[white]dustry"
+author: "Bbsx"
+description:  "This is almost acurate and simplified of the tecnology from the 21st century."
 version: "1.0.0"
 minGameVersion: "107"
-dependencies: [ ]
