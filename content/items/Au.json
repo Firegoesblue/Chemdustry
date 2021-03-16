@@ -1,0 +1,6 @@
+type: material
+name: Gold
+description:  it is a bright, slightly reddish yellow, dense, soft, malleable, and ductile metal
+color: ffdf75
+hardness: 3
+cost: 1.6
