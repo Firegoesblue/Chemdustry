@@ -1,7 +1,7 @@
 type: wall
 category: defense
 name: Iron Wall
-description: "A wall made out of [grey]Iron."
+description: "A wall made out of Iron."
 health: 370
 size: 1
 requirements: [
