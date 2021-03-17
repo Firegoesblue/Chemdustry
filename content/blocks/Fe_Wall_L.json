@@ -1,0 +1,9 @@
+type: wall
+category: defense
+name: Large Iron Wall
+description: A wall made out of [grey]Iron.
+health: 1850
+size: 1
+requirements: [
+ Fe/24
+]
