@@ -1,0 +1,9 @@
+type: wall
+category: defense
+name: Iridium Wall
+description: A wall made out of iridium(also, why you spend a very rare material on a wall?).
+health: 5000
+size: 2
+requirements: [
+ Ir/40
+]

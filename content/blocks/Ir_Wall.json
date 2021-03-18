@@ -5,5 +5,5 @@ description: A wall made out of Iridium.
 health: 1000
 size: 1
 requirements: [
- Ir/6
+ Ir/10
 ]
