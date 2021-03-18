@@ -3,7 +3,7 @@ category: defense
 name: Large Iron Wall
 description: A wall made out of Iron.
 health: 1850
-size: 1
+size: 2
 requirements: [
  Fe/24
 ]
