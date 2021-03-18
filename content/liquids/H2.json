@@ -1,5 +1,5 @@
 type: resource
 name: Hydrogen 
 description: the lightest and flamable gas
-color: 5ea339
+color: 373737
 flamability: 10

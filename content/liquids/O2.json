@@ -1,5 +1,5 @@
 type: resource
 name: Oxygen                                                                                                                                                                                                
 description: A colourless, odorless, diatomic gas that makes up 21% of the atmosphere
-color: 000000
+color: 3cb6f1
 flamability: 6
