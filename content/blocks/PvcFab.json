@@ -11,7 +11,7 @@ craftTime: 168
 consumes: {
         power: 5
 	liquid: [
-{liquid: water, amount: 7}
+{liquid: water, amount: 7},
 {liquid: oil, amount: 5}
 ]		
 }
