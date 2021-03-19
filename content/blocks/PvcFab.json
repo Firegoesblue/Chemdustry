@@ -6,8 +6,8 @@
 "hasPower": "true",
 "hasItems": "true",
 "hasliqids": "true",
-"liquidCapacity": 1000",
-"craftTime": "168",
+"liquidCapacity": "100",
+"craftTime": "120",
 "consumes": [
 		{"liquid": "water", "amount": 7},
 		{"liquid": "oil", "amount": 5}
@@ -24,6 +24,6 @@
 "idleSound": "respawning",
 "idleSoundVolume": "0.25",
 "outputItem": {
-			"liquid": "oil",
-			"amount": 0.3
+			"liquid": "PVC",
+			"amount": 2
 		}
