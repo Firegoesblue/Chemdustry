@@ -11,10 +11,13 @@ craftTime: 168
 consumes: {
         power: 5
 	liquid: {
-		liquid: [
-			{liquid: oil/amount: 5}
-			{liquid: water/amount: 7}
-		]
+		liquid: { 
+			liquid: oil/amount: 5
+}
+			{
+                         liquid: water/amount: 7
+}
+		
 	}
 }
 requirements: [
