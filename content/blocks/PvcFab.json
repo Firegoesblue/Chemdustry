@@ -9,11 +9,11 @@ hasliqids: true
 liquidCapacity: 1000
 craftTime: 168
 consumes: {
-        power: 5
+        power: 30
 	liquid: [
 {liquid: water, amount: 7},
 {liquid: oil, amount: 5}
-]		
+]
 }
 requirements: [
   copper/90
