@@ -1,6 +1,6 @@
 type: GenericSmelter
 name: Plastic Fabricator
-description: Makes Plastic From oil and water
+description: Makes Plastic From oil(by spore pods) and water
 health: 120
 size: 2
 hasPower: true
@@ -10,7 +10,7 @@ liquidCapacity: 100
 craftTime: 120
 consumes: {
   power: 12
-  Item: {
+  item: {
     items: [
       spore-pod 
     ] 
