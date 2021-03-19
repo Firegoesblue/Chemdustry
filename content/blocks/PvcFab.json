@@ -12,7 +12,7 @@ consumes: {
   power: 12
   item: {
     items: [
-      spore-pod 
+      spore-pod/5
     ] 
   },
   liquid: {
