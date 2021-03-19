@@ -9,14 +9,12 @@ hasliqids: true
 liquidCapacity: 1000
 craftTime: 168
 consumes: {
-  power: 250
+  power: 320
   liquids:
  {oil/5}
  {water/7}
 
-    ]
   }
-}
 requirements: [
   copper/90
   lead/80
