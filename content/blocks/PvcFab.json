@@ -1,29 +1,36 @@
-"type": GenericSmelter",
-"name": "Plastic Fabricator",
-"description": "Makes Plastic From oil and water",
-"health": "1200",
-"size": "2",
-"hasPower": "true",
-"hasItems": "true",
-"hasliqids": "true",
-"liquidCapacity": "100",
-"craftTime": "120",
-"consumes": [
-		{"liquid": "water", "amount": 7},
-		{"liquid": "oil", "amount": 5}
-],
+type: GenericSmelter
+name: Plastic Fabricator
+description: Makes Plastic From oil and water
+health: 1200
+size: 2
+hasPower: true
+hasItems: true
+hasliqids: true
+liquidCapacity: 100
+craftTime: 120
+consumes: {
+  power: 20
+  liquid: {
+    liquid: oil
+    amount: 5   
+  }
+  liquid: {
+    liquid: water
+    amount: 7  
+  }
+}
 "requirements": [
-  {"item": "copper", "amount": 90},
-  {"item": "lead", "amount": 80},
-  {"item": "graphite", "amount": 100},
-  {"item": "silicon","amount": 50},
-  {"item": "Al", "amount": 100},
-  {"item": "Steel", "amount": 50}, 
+  copper/90
+  lead/80
+  graphite/100
+  silicon/50
+  Al/100
+  Steel/50
 ],
-"category": "crafting",
-"idleSound": "respawning",
-"idleSoundVolume": "0.25",
-"outputItem": {
-			"liquid": "PVC",
-			"amount": 2
+category: crafting
+idleSound: respawning
+idleSoundVolume: 0.25
+outputItem: {
+			liquid: PVC
+			amount: 2
 		}
