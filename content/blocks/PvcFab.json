@@ -10,10 +10,11 @@ liquidCapacity: 100
 craftTime: 120
 consumes: {
   power: 12
-  liquid: {
-    liquid: oil
-    amount: 5   
-  }
+  Item: {
+    items: [
+      spore-pod 
+    ] 
+  },
   liquid: {
     liquid: water
     amount: 7  
